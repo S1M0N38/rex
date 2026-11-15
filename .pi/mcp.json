@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "superlogical": {
+      "url": "https://www.superlogical.com/rex/community-mcp",
+      "exposure": "codemode",
+      "description": "Rex documentation, changelog, and Rex Beta Discord history"
+    }
+  }
+}
