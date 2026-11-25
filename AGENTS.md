@@ -15,6 +15,7 @@ Fleet details — hosts, server modes, session-naming conventions — are delibe
 - `rex config check` loads and reports bindings, removals, modes, actions; `rex config reload` applies them.
 - A reload applies the file as written: anything it stops declaring disappears from the running server. Never reload a half-written file.
 - Rex reads no other file here. Only add config files the installed Rex documents.
+- New features are plugins: `plugins/<name>/init.lua`, required from `init.lua` with `require("plugins.<name>")`, defining their own actions and bindings.
 - Never delete, move or repoint the symlink.
 
 ## The rex skill
