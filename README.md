@@ -1,12 +1,12 @@
-# pi-rex
+# rex
 
 Run `pi` from here when the work is about **Rex** (Superlogical's terminal emulator and multiplexer): sessions, tabs and panes, config, debugging, Rex questions.
 
 Not a Pi package. It installs nothing and publishes nothing — the value is three config files.
 
 ```sh
-git clone git@github.com:S1M0N38/pi-rex.git ~/Code/github.com/S1M0N38/pi-rex
-cd ~/Code/github.com/S1M0N38/pi-rex
+git clone git@github.com:S1M0N38/rex.git ~/Code/github.com/S1M0N38/rex
+cd ~/Code/github.com/S1M0N38/rex
 pi
 ```
 

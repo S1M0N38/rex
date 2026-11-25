@@ -1,4 +1,4 @@
-# pi-rex
+# rex
 
 Where Pi runs when the work is about **Rex** (Superlogical's terminal emulator and multiplexer): driving sessions, tabs and panes, changing Rex config, debugging, answering Rex questions. There is no code in this repo.
 
